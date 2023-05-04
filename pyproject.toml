@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "trabalho 1"
+version = "0.1.0"
+description = ""
+authors = ["Gabriel Lins <gabrielinsmelo@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyter = "^1.0.0"
+ipykernel = "^6.22.0"
+pandas = "^2.0.1"
+scikit-learn = "^1.2.2"
+numpy = "^1.24.3"
+matplotlib = "^3.7.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

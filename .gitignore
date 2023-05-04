@@ -1,0 +1,5 @@
+.venv
+data/*.csv
+*.pdf
+.ipynb_checkpoints
+poetry.lock
